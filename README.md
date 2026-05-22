@@ -22,6 +22,14 @@ By profiling the resulting clusters, the model successfully isolated distinct be
 * **Language:** Python
 * **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
+### 📉 Cluster Visualizations
+
+**PCA Dimensionality Reduction (K=2)**
+![PCA Clustering](assets/clustering_pca.png)
+
+**Churn Rate by Customer Segment**
+![Churn Rate Profile](assets/clustering_churn_rate.png)
+
 ## 🚀 How to Run Locally
 1. Clone this repository.
 2. Ensure you have the required libraries installed (`pip install -r requirements.txt` or install manually).
